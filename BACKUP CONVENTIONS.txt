@@ -1,0 +1,18 @@
+Any time you start editing code, copy-paste the existing code folder, then add
+the date to the folder name in this format: " - YYYY-MM-DD" after the title.
+
+
+Also, I love and hate Symlinks at the same time.
+
+But... I have to symlink this directory to another directory so I can get around Windriver's hate of spaces.
+
+Dalton, look up mklink.
+
+Anyone else using Windriver, also look it up.
+
+Plz dnt brk drpbx n teh prcss...
+
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+
+Also, really convoluted, making Windriver work with the symlink.  If you care that much to find out, talk to Joey.
+He doesn't care to put it in this not-even-a-readme at the time of writing.  He is tired and would love to zzzzzzz...
